@@ -4,7 +4,7 @@ import { ThemeProvider } from "./components/theme-provider";
 // ✅ Navbar and Hero import
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import Companies from "./components/companies";
+import Companies from "./components/Companies";
 import Features from "./components/Features";
 import Course from "./components/Course";
 import Recipe from "./components/Recipie";
